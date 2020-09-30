@@ -1,4 +1,4 @@
-# IP-Address-Checker in JavaScript
+# IP Address Checker in JavaScript
 
 ### Exercise:
 
